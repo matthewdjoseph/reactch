@@ -1,4 +1,4 @@
-// lesson 8
+// lesson x
 
 import React from 'react';
 import BookList from './components/BookList';
